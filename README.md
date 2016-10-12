@@ -1,3 +1,3 @@
 # hello-world
-a beautiful day /n
+a beautiful day 
 I love westerns
