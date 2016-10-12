@@ -1,3 +1,3 @@
 # hello-world
-a beautiful day 
-I love westerns
+My name is Stergios
+and i love westerns
